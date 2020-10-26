@@ -32,7 +32,7 @@ chatbot spells a word entered by user(Text-to-Audio)
   - [Repl code execution link](https://SpellBot1.srichandrika.repl.co)
   
 ## Plan of my code(FROM MOQUP) : 
- ![Plan](https://raw.githubusercontent.com/chandrika3105/ML2021chatbot_javascript/main/moqup.PNG)
+ ![Plan](https://raw.githubusercontent.com/chandrika3105/ML2021chatbot_javascript/main/Moqup1.PNG)
 
 ## Youtube link of my program execution : 
 
