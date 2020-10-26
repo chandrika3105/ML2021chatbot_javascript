@@ -24,6 +24,9 @@ chatbot spells a word entered by user(Text-to-Audio)
   - Now 2 notes is available for user understanding and after entering user name the chatbot greets the user and asks the user to enter the word the user want to know how to spell.
   
   - The user can know how to spell as many as words he can by using this bot and by clicking end button the bot finally salutate the user.
+  
+## Plan of my code(FROM MOQUP) : 
+ ![Plan](https://raw.githubusercontent.com/chandrika3105/ML2021chatbot_javascript/main/moqup.PNG)
 
 ## Youtube link of my program execution : 
 
