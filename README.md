@@ -1,13 +1,13 @@
 # ML2021chatbot_javascript
 chatbot spells a word entered by user(Text-to-Audio)
 
-## Ojective of my chatbot :
+## Objective of my chatbot :
 
   - Name of my ChatBot is  _**JACOB.**_
   
   - It is designed to spell the word enter by user.
   
-  - We dont know how to spell some words properly so in that case my chatbot helps you to pronounce correctly.
+  - _**We dont know how to spell some words properly so in that case my chatbot helps you to pronounce correctly.**_
   
   - It also greets the user.
   
@@ -25,10 +25,20 @@ chatbot spells a word entered by user(Text-to-Audio)
   
   - The user can know how to spell as many as words he can by using this bot and by clicking end button the bot finally salutate the user.
   
+## REPL LINK :
+
+  - [Redirecting page code link](https://SpellBot1.srichandrika.repl.co)
+  
 ## Plan of my code(FROM MOQUP) : 
  ![Plan](https://raw.githubusercontent.com/chandrika3105/ML2021chatbot_javascript/main/moqup.PNG)
 
 ## Youtube link of my program execution : 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uwzOWPcQT8E/0.jpg)](https://www.youtube.com/watch?v=uwzOWPcQT8E)
+
+## Resources : 
+
+ - [w3schools](https://www.w3schools.com/)
+ 
+ - [javapoint](https://www.javatpoint.com/how-to-center-a-button-in-css)
 
