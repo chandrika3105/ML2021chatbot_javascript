@@ -1,0 +1,54 @@
+/*setting styles to body of html file*/
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*setting style to main heading(h1)*/
+h1{
+    color:indianred;
+    font-family: algerian;
+    font-size: 50px;
+    text-align: left;
+    
+}
+/*setting style to sub heading(h3)*/
+h3{
+    font-family: candara;
+    color: lavender;
+    text-align: left;
+
+}
+/*arranging div*/
+div {
+    margin: auto; 
+    position:relative;
+}
+/*setting style to button*/
+button{
+    background-color:aqua;
+    border-radius: 20px;
+    border-color: black;
+    color:black;
+    height:30px; 
+    width:100px; 
+    margin: 0px 0px;
+    position:initial;
+    
+ /*Using hover effect ti button*/ 
+}
+button:hover {
+    background-color: plum;
+    border-radius: 20px;
+    border-color: black;
+    color:black;
+    height:30px; 
+    width:100px; 
+    margin: 0px 0px;
+    position:initial;
+    
+  
+}
