@@ -26,8 +26,10 @@ chatbot spells a word entered by user(Text-to-Audio)
   - The user can know how to spell as many as words he can by using this bot and by clicking end button the bot finally salutate the user.
   
 ## REPL LINK :
-
-  - [Redirecting page code link](https://SpellBot1.srichandrika.repl.co)
+  
+  - [Repl code link](https://repl.it/@SriChandrika/SpellBot1#index.html)
+  
+  - [Repl code execution link](https://SpellBot1.srichandrika.repl.co)
   
 ## Plan of my code(FROM MOQUP) : 
  ![Plan](https://raw.githubusercontent.com/chandrika3105/ML2021chatbot_javascript/main/moqup.PNG)
